@@ -35,11 +35,12 @@ A 1-to-4 DEMUX has 1 data input (D), 2 select lines (S1S0), and 4 outputs (Y0–
 ---
 ## Output
 
-![image](mux.png)
+<img width="1920" height="1020" alt="mux lab4" src="https://github.com/user-attachments/assets/10304e9e-1aee-4225-abb0-fec777f33cda" />
+
 
 **Multiplexer**
 
-![image](demux.png)
+<img width="1920" height="1020" alt="demux lab4" src="https://github.com/user-attachments/assets/555886d4-966e-4a92-868e-73437d195614" />
 
 **Demultiplexer**
 
