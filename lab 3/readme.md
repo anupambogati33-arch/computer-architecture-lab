@@ -42,10 +42,12 @@ A **decoder** converts an \(n\)-bit binary input into one of \(2^n\) output line
 ---
 
 ## Output
+<img width="1920" height="1020" alt="encoder lab3" src="https://github.com/user-attachments/assets/4e87aa1e-734e-410b-930c-3997a11a36c9" />
 
 **Encoder**
 
 
+<img width="1920" height="1020" alt="decoder lab3" src="https://github.com/user-attachments/assets/5b35b399-0a8c-435f-8630-9a4adac71932" />
 
 **Decoder**
 
