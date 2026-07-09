@@ -42,9 +42,11 @@
 
 ## Output
 
+<img width="1920" height="1020" alt="bcd-xs3" src="https://github.com/user-attachments/assets/c42c248f-40bf-4239-a307-c46fc4e36728" />
 
 **BCD to Excess3**
 
+<img width="1920" height="1020" alt="gray" src="https://github.com/user-attachments/assets/63f6b5a1-4b47-404d-a654-200a2900a6c4" />
 
   
 **Binary to Gray**
